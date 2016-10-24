@@ -21,8 +21,7 @@
     <img src="images/construction_small.png">
 
     <h3 class="slide__text-heading">
-        kaff.ch befindet sich zur Zeit im Umbau. Sie wird aber bald und besser wieder da sein. Solange, gibts hier ganz
-        simpel Programm und Kontakt zu sehen.
+        kaff.ch befindet sich zur Zeit im Umbau. Sie wird aber bald und besser wieder da sein.
     </h3>
 
 </div>
@@ -33,14 +32,14 @@
 
 <div class="center">
     <h3 class="slide__text-heading">
-        Kontakangaben
+        Kontaktangaben
     </h3>
     <ul class="slide__text-desc list-unstyled">
         <li>
-            <b>Kulturlokal:</b> Grabensrasse 57, 8500 Fraunfeld
+            <b>Kulturlokal:</b> Grabensrasse 57, 8500 Frauenfeld
         </li>
         <li>
-            <b>Vereinshaus:</b> Reihnstrasse 14, 8500 Frauenfeld
+            <b>Vereinshaus:</b> Rheinstrasse 14, 8500 Frauenfeld
         </li>
         <li>
             <b>Info-Mail:</b> <a>info@kaff.ch</a>
