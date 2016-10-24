@@ -13,6 +13,25 @@ ul {
     padding-left: 0;
 }
 
+.center {
+    display: table;
+    width: 60%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.center img {
+    display: block;
+    margin: auto;
+}
+
+@media (max-width: 991px) {
+    .center {
+        display: table;
+        width: 80%;
+    }
+}
+
 .slide__text-heading {
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
     font-size: 3rem;

@@ -20,10 +20,9 @@
 <div class="center">
     <img src="images/construction_small.png">
 
-
     <h3 class="slide__text-heading">
-        kaff.ch befindet sich zur Zeit im Umbau. Sie wird aber bald und besser wieder da sein. Solnage, gibts hier ganz
-        simpel Programm und Kontakt zu sehen
+        kaff.ch befindet sich zur Zeit im Umbau. Sie wird aber bald und besser wieder da sein. Solange, gibts hier ganz
+        simpel Programm und Kontakt zu sehen.
     </h3>
 
 </div>
@@ -74,29 +73,6 @@
         </li>
     </ul>
 </div>
-
-
-<style>
-    .center {
-        display: table;
-        width: 60%;
-        margin: auto;
-        margin-bottom: 20px;
-    }
-
-    .center img {
-        display: block;
-        margin: auto;
-    }
-
-    @media (max-width: 991px) {
-        .center {
-            display: table;
-            width: 80%;
-        }
-    }
-
-</style>
 
 </body>
 
