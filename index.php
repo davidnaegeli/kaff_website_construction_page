@@ -52,26 +52,6 @@
             <b>Band-Mail:</b> <a>bands@kaff.ch</a>
         </li>
     </ul>
-    <h3 class="slide__text-heading">
-        Partner, Sponsoren und weitere KAFF-Projekte
-    </h3>
-    <ul class="slide__text-desc">
-        <li>
-            Kanton Thurgau
-        </li>
-        <li>
-            Stadt Frauenfeld
-        </li>
-        <li>
-            KÄPT'N
-        </li>
-        <li>
-            Out In The Green Garden (OITGG)
-        </li>
-        <li>
-            Autonome Schule Frauenfeld (ASF)
-        </li>
-    </ul>
 </div>
 
 </body>
